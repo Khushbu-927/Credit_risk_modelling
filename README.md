@@ -23,4 +23,3 @@ In this project, different learning algorithms have been used to find the best a
  
  After fitting and testing the different models on the data, Random Forest Regressor performed better than all other algorithms that we used and were able to predict the credit risk on our test set with an accuracy of 93%.
  
- ## Summary
